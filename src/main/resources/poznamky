@@ -1,0 +1,34 @@
+Pokračovanie na videu č. 8 Generate Reporr API of Bill
+Pokračovanie na videu č. 9 API fo Bill, Dashboard
+
+{
+    "fileName": "bill478",
+    "contactNumber": "55897456",
+    "email": "best.cafe@mailinator.com",
+    "name": "Lucia",
+    "paymentMethod": "Cash",
+    "productDetails":
+    "[{\"id\":18,\"name\":\"Pizza\",\"category\":\"Pizza\",\"quantity\":\"1\",\"price\":150,\"total\":150}, {\"id\":5,\"name\":\"Spaghetti Bolognese with meat and tomatoes.\",\"category\":\"Spaghetti Bolognese\",\"quantity\":\"1\",\"price\":159,\"total\":159}, {\"id\":18,\"name\":\"Doppio Coffee\",\"category\":\"Coffee\",\"quantity\":\"1\",\"price\":120,\"total\":120}]","totalAmount": "279"
+}
+
+{
+    "fileName": "bill888",
+    "contactNumber": "55897456",
+    "email": "best.cafe@mailinator.com",
+    "name": "Zuzanita",
+    "paymentMethod": "Cash",
+    "productDetails":
+    "[{\"id\":18,\"name\":\"Doppio Coffee\",\"category\":\"Coffee\",\"quantity\":\"1\",\"price\":120,\"total\":120}, {\"id\":5,\"name\":\"Spaghetti Bolognese with meat and tomatoes.\",\"category\":\"Spaghetti Bolognese\",\"quantity\":\"1\",\"price\":159,\"total\":159}, {\"id\":18,\"name\":\"Doppio Coffee\",\"category\":\"Coffee\",\"quantity\":\"1\",\"price\":120,\"total\":120},      {\"id\":5,\"name\":\"Spaghetti Bolognese with meat and tomatoes.\",\"category\":\"Spaghetti Bolognese\",\"quantity\":\"1\",\"price\":159,\"total\":159}]","totalAmount": "279"
+}
+
+{
+    "fileName": "bill865",
+    "contactNumber": "55897456",
+    "email": "best.cafe@mailinator.com",
+    "name": "Peter",
+    "paymentMethod": "Cash",
+    "productDetails":
+    "[{\"id\":18,\"name\":\"Doppio Coffee\",\"category\":\"Coffee\",\"quantity\":\"1\",\"price\":120,\"total\":120}, {\"id\":5,\"name\":\"Spaghetti Bolognese with meat and tomatoes.\",\"category\":\"Spaghetti Bolognese\",\"quantity\":\"1\",\"price\":159,\"total\":159}, {\"id\":18,\"name\":\"Doppio Coffee\",\"category\":\"Coffee\",\"quantity\":\"1\",\"price\":120,\"total\":120},    {\"id\":5,\"name\":\"Spaghetti Bolognese with meat and tomatoes.\",\"category\":\"Spaghetti Bolognese\",\"quantity\":\"1\",\"price\":159,\"total\":159}]","totalAmount": "279"
+}
+
+[{"id": 18, "name": "Doppio Coffee", "price": 120, "total": 120, "category": "Coffeeeeeee", "quantity": "1"}, {"id": 5, "name": "Chocolate Frosted Doughnut", "price": 159, "total": 159, "category": "Doughnut", "quantity": "1"}, {"id": 18, "name": "Doppio Coffee", "price": 120, "total": 120, "category": "Coffee", "quantity": "1"}, {"id": 5, "name": "Chocolate Frosted Doughnut", "price": 159, "total": 159, "category": "Doughnut", "quantity": "1"}]
